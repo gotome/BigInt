@@ -2,8 +2,8 @@
 
 `BigInt Class C++` for all basic arithmetic operations.
 
-This class allows you to calculate verry large numbers.
-The numbers are stored in dynamic arrays. This allows to calculate almost unlimited large numbers. 
+This class allows you to calculate arbitrary large numbers.
+The numbers are stored in dynamic arrays.
 
 
 **Numbers will get stored internally as follows:** 
